@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\yider\\OneDrive - Universidad Cooperativa de Colombia\\Documents\\Desktop\\postgresql-42.7.3.jar",
+    "c:\\Users\\yider\\OneDrive - Universidad Cooperativa de Colombia\\Documents\\Desktop\\flatlaf-3.5.2.jar"
+  ]
+}
